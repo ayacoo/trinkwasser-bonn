@@ -10,3 +10,8 @@ Datenquellen:
 ==================
 
 * Stadtwerke Bonn: https://www.stadtwerke-bonn.de/fuer-zuhause/produkte/wasser/
+
+Original Fork:
+==================
+
+* https://github.com/opendata-heilbronn/trinkwasser
