@@ -15,3 +15,8 @@ Original Fork:
 ==================
 
 * https://github.com/opendata-heilbronn/trinkwasser
+
+Stand:
+==================
+
+29.05.2020
